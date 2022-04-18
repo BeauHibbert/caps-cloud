@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/BeauHibbert/caps-cloud#readme",
   "dependencies": {
-    "aws-sdk": "^2.1115.0"
+    "aws-sdk": "^2.1115.0",
+    "sqs-consumer": "^5.6.0",
+    "sqs-producer": "^2.1.0"
   }
 }
